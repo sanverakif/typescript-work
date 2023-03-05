@@ -20,7 +20,7 @@ let dizi = [] as string[];
 let dizi2: string[] = [];
 let dizi3: Array<string> = [];
 
-const myDizi: [string, string, number] = ["uieuei", "uieuie", 10]; //tuple
+const myDizi: [string, string, number] = ["uieuei", "uieuie", 10]; //tuple.
 
 // function F(): [number, string] {
 //   return [25, "u"];
