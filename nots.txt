@@ -1,0 +1,2 @@
+Ts, js e tip desteği sağlar.
+ts tip destekli bir dildir.
